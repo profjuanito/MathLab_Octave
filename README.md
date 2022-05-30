@@ -1,6 +1,6 @@
-# MathLab_Octave
+# MathLab e Octave
  
-Mostro algumas das soluções dos desafíos do curso  de Machine Learning da Universiade de Stanford
+Mostro algumas das soluções dos desafíos do curso de Machine Learning da Universiade de Stanford
 
 ## Octave
 
