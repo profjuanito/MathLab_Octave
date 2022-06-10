@@ -13,5 +13,5 @@ ___
 
 ### Stanford University
 
-Excelente curso de Machine Learning, e aqui coloco os desafios propostos e as minhas soluções que podem server de tutorial
+Excelente curso de Machine Learning, e aquí coloco os desafios propostos e as minhas soluções que podem server de tutorial
 
