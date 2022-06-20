@@ -21,8 +21,8 @@ _Octave_ é uma linguagem de programacão de código aberto similar ao MathLab. 
 
 O curso esta separado em diverso tópicos. Vou começar postando os primeiros tópicos. Posteriomente serão separados em diretorios e em cada diretorio seá colocada a solução usando Octave e Python.
 
-* Regressao Linear
-* Regressao Logística
+* Regressão Linear
+* Regressão Logística
 * Redes Neurais
 ___
 
