@@ -9,7 +9,7 @@ Mostro algumas das soluções dos desafíos do curso de **Machine Learning** da 
 
 ## MathLab e Octave
 
-_Octave_ é uma linguagem de programacão de código aberto similar ao MathLab. Ponho a disposição uma apostilha que me ajudou muito, pode ser utilizada como primeira referência.
+**Octave** é uma linguagem de programacão de código aberto similar ao MathLab. Ponho a disposição uma apostilha que me ajudou muito, pode ser utilizada como primeira referência.
 
 * Octave introduction
 * Octave tutorial
