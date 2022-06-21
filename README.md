@@ -1,6 +1,6 @@
 # Machine Learning - Stanford University
 
-Excelente curso de Machine Learning, e aquí coloco os desafios propostos e as minhas soluções que podem servir de tutorial ou como ajuda para quem esta fazendo.
+Excelente curso de Machine Learning, e aquí coloco os desafios propostos e as minhas soluções que podem servir de tutorial ou como ajuda para quem esta fazendo esse curso.
  
 Mostro algumas das soluções dos desafíos do curso de **Machine Learning** da Universiade de Stanford. Os desafíos foram resolvidos usando **Octave**
 
